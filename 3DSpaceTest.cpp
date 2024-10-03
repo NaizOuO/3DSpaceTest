@@ -1,7 +1,7 @@
 //******************************************
 // fileName: 3DSpaceTest
 // startDate: 2024/10/1
-// Maker: Naiz (MartisHung assist in revising)
+// Maker: Naiz
 // screenSize: 64 * 64 (actually 128 * 64)
 //******************************************
 
@@ -90,8 +90,7 @@ int main() {
 
         std::this_thread::sleep_for(std::chrono::milliseconds(10));
     }
-    
-    system("pause");
+
     return 0;
 }
 
